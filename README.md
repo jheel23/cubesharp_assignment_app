@@ -10,6 +10,5 @@
    - Follow the login info: **Phone Number: 1234567890** and **Password: test@78563**
      
 ## Second Method(Recommended):
-  - Inside GitHub repository of the app open: **build\app\outputs\flutter-apk**
-  - Download the **app-release.apk** file and then install the apk on any Android device.
+  - Download the **app-release.apk**(Available in repository) file and then install the apk on any Android device.
   - Follow the login info: **Phone Number: 1234567890** and **Password: test@78563**
